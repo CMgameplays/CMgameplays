@@ -32,7 +32,8 @@ Based in Lebanon. Fueled by UE5 and too much coffee.
 | **PaletteForge** | Extract dominant color palettes from images ~ ready for design & dev workflows | [→](https://github.com/CMgameplays/PaletteForge) |
 | **OptiForge** | Compress & resize game asset images in batch ~ PNG, JPG, WEBP output with ZIP export | [→](https://github.com/CMgameplays/OptiForge) |
 | **SpriteForge** | Pack sprites into optimized, GPU-friendly sprite sheets with JSON frame data export | [→](https://github.com/CMgameplays/SpriteForge) |
-
+| **StatsForge** | calculate and simulate combat stats for enemys and waves, and Simulate Charts accordingly | [→](https://github.com/CMgameplays/StatsForge) |
+| **SimForge** |  Wave balance simulator for game designers , simulate every wave and Find Danger Spikes. | [→](https://github.com/CMgameplays/SimForge) |
 All tools are MIT licensed and built with Python · Flask · Pillow. More tools coming.
 
 ---
