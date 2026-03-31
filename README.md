@@ -1,10 +1,7 @@
 # Hey, I'm CM 👾
-### Solo game dev · Founder of CMG Forge 
-
+### Solo game dev ~ Founder of CMG Forge 
 ---
-
 I build games from scratch ~ design, code, art, the whole stack.  
-Currently working as **Lead Game Developer** on a published UE5 title, and shipping my own mobile games on the side.  
 Based in Lebanon. Fueled by UE5 and too much coffee.
 
 ---
@@ -21,6 +18,22 @@ Based in Lebanon. Fueled by UE5 and too much coffee.
 - 🧍 Character design, rigging & animation
 - 🎮 Character movement systems & game mechanics
 - 🔫 Third-person shooter combat implementation
+
+---
+
+## 🛠️ CMG Forge — Free tools for solo devs
+
+> A growing suite of lightweight, locally-hosted browser tools built for game developers.  
+> No cloud. No sign-up. No data leaves your machine.
+
+| Tool | What it does | Repo |
+|---|---|---|
+| **PixelForge** | Generate pixel-art UI frames & buttons, remove image backgrounds, batch convert images & video | [→](https://github.com/CMgameplays/PixelForge) |
+| **PaletteForge** | Extract dominant color palettes from images ~ ready for design & dev workflows | [→](https://github.com/CMgameplays/PaletteForge) |
+| **OptiForge** | Compress & resize game asset images in batch ~ PNG, JPG, WEBP output with ZIP export | [→](https://github.com/CMgameplays/OptiForge) |
+| **SpriteForge** | Pack sprites into optimized, GPU-friendly sprite sheets with JSON frame data export | [→](https://github.com/CMgameplays/SpriteForge) |
+
+All tools are MIT licensed and built with Python · Flask · Pillow. More tools coming.
 
 ---
 
@@ -45,6 +58,8 @@ Based in Lebanon. Fueled by UE5 and too much coffee.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
