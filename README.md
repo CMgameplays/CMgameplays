@@ -15,7 +15,7 @@ Based in Lebanon. Fueled by UE5 and too much coffee.
 | **Escape From USEK: Exam Simulator** | Solo Dev | Unreal Engine 5 · Simulation/Parkour · Educational | 🟡 In development |
 | **Nanite Idle Clicker** | Solo Dev | Unreal Engine 5 · Android · AdMob | 🟡 In development |
 
-### At OSP I own:
+### Worked on:
 - 🌍 World building & level design on Kalveras 9
 - 🧍 Character design, rigging & animation
 - 🎮 Character movement systems & game mechanics
