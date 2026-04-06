@@ -11,6 +11,8 @@ Based in Lebanon. Fueled by UE5 and too much coffee.
 | Project | Role | Stack | Status |
 |---|---|---|---|
 | **Operation Safe Place Defense** | Lead Game Dev | Unreal Engine 5 · TPS · Web3 | 🟢 Active · [Epic Games Store](https://store.epicgames.com/en-US/p/operation-safe-place-tower-defense-9e023c) |
+| **Only Believe Card Game** | Solo Dev | Unreal Engine 5 · TCG· Biblical | 🟢 Active - [Website](https://www.onlybelievegame.com/)  |
+| **Escape From USEK: Exam Simulator** | Solo Dev | Unreal Engine 5 · Simulation/Parkour · Educational | 🟡 In development |
 | **Nanite Idle Clicker** | Solo Dev | Unreal Engine 5 · Android · AdMob | 🟡 In development |
 
 ### At OSP I own:
