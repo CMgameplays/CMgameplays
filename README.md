@@ -1,5 +1,5 @@
 # Hey, I'm CM 👾
-### Lead AI Engineer ~ Full-Stack Dev ~ Solo Game Dev.
+###AI Engineer ~ Full-Stack Dev ~ Solo Game Dev.
 ---
 By day I build AI agents, chatbots, and automation pipelines for production.  
 By night I build games from scratch ~ design, code, art, the whole stack.  
