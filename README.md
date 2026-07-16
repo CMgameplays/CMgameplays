@@ -67,7 +67,7 @@ Based in Lebanon. Fueled by Claude, Codex, and too much coffee.
 
 ---
 
-## 🛠️ CMG Forge — Free tools for solo devs
+## 🛠️ CMG Forge ~ Free tools for solo devs
 
 > A growing suite of lightweight, locally-hosted browser tools built for game developers.  
 > No cloud. No sign-up. No data leaves your machine.
